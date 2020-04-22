@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>VRT Client &amp; Peripherals - Thin Client 4</name>
+        <icon>Thin Client 4-icon.png</icon>
+        <connections>
+        <point x="15" y="23" main="yes"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="47"/>
+        <point x="30" y="47"/>
+        </connections>
+        <textbox x1="0" y1="49" x2="30" y2="69" align="center" resize="no"/>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="47" xlink:href="Thin Client 4.svg"/>
+        </svg:svg>
+        </shape>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>VRT Client &amp; Peripherals - Document Scanner 7</name>
+        <icon>Document Scanner 7-icon.png</icon>
+        <connections>
+        <point x="15" y="18" main="yes"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="36"/>
+        <point x="30" y="36"/>
+        </connections>
+        <textbox x1="0" y1="38" x2="30" y2="58" align="center" resize="no"/>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="36" xlink:href="Document Scanner 7.svg"/>
+        </svg:svg>
+        </shape>

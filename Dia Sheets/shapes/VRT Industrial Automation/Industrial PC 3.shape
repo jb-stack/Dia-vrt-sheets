@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>VRT Industrial Automation - Industrial PC 3</name>
+        <icon>Industrial PC 3-icon.png</icon>
+        <connections>
+        <point x="15" y="20" main="yes"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="41"/>
+        <point x="30" y="41"/>
+        </connections>
+        <textbox x1="0" y1="43" x2="30" y2="63" align="center" resize="no"/>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="41" xlink:href="Industrial PC 3.svg"/>
+        </svg:svg>
+        </shape>

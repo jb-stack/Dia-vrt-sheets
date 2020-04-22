@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>VRT Clients &amp; Peripherals - USB Key Dongle 5</name>
+        <icon>USB Key Dongle 5-icon.png</icon>
+        <connections>
+        <point x="15" y="11"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="22"/>
+        <point x="30" y="22"/>
+        </connections>
+        <textbox x1="0" y1="24" x2="30" y2="44" align="center" resize="no"/>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="22" xlink:href="USB Key Dongle 5.svg"/>
+        </svg:svg>
+        </shape>

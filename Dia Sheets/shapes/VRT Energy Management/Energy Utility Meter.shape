@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>VRT Energy Management - Energy Utility Meter</name>
+        <icon>Energy Utility Meter-icon.png</icon>
+        <connections>
+        <point x="15" y="23" main="yes"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="46"/>
+        <point x="30" y="46"/>
+        </connections>
+        <textbox x1="0" y1="48" x2="30" y2="68" align="center" resize="no"/>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="46" xlink:href="Energy Utility Meter.svg"/>
+        </svg:svg>
+        </shape>
